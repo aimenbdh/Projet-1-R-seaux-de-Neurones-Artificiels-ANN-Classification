@@ -1,0 +1,4 @@
+Configuration,Paramètres,Acc. CV moy.,Écart-type,S/N observé (dB)
+Optimum prédit (Taguchi),"{'A_neurones': 20, 'B_lr': 0.05, 'C_activation': 'logistic', 'D_alpha': 0.1}",0.9689289805269187,0.013682618214088331,-0.2767524162735294
+Meilleur essai L9 (n°8),"{'A_neurones': 20, 'B_lr': 0.01, 'C_activation': 'logistic', 'D_alpha': 0.1}",0.9730670103092784,0.01357405307867028,-0.239692444843119
+Référence (article),"{'A_neurones': 15, 'B_lr': 0.01, 'C_activation': 'logistic', 'D_alpha': 0.0001}",0.9709621993127147,0.016704679743317886,-0.2598952095387044

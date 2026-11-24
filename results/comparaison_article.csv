@@ -1,0 +1,6 @@
+,Article (2021),Ce projet
+Accuracy test (30 runs),0.988,0.9744186046511626
+Sensibilité,0.991,0.953125
+Spécificité,0.984,0.9870370370370369
+F-score,0.988,0.9649906993382669
+Accuracy 10-fold CV,0.987,0.9771929824561403
